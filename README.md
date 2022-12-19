@@ -1,2 +1,6 @@
-# potential-giggle
-hello world
+# hello world
+
+
+只 要 公 道 得 胜，哪 怕 世 界 灭 亡。
+
+——斐迪南一世,神圣罗马帝国皇帝
